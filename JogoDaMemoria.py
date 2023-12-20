@@ -387,7 +387,7 @@ def main():
             pont=contJogo[2] #pontuação
             jogo = jogar(pontuacao=pont,matriz=m1,matriz2=m2) #funçao jogar com as matrizes recuperadas
             
-            
+main()         
             
         
             
